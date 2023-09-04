@@ -917,4 +917,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/dunez/Desktop/Build
+  playerPath: C:/Users/dunez/Desktop/build
