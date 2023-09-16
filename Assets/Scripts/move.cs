@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class move : MonoBehaviour
 {
-    [SerializeField] float movementSpeed = 100;
+    [SerializeField] float movementSpeed = 1000;
 
     Transform myT;
 
